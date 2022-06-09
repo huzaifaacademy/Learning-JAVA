@@ -63,12 +63,12 @@ public class App {
 
 
         // assignment: swap two numbers
-        int a = 3;
-        int b = 8;
-        int temp = a;
-        a = b;
-        b = temp;
-        System.out.println("a :" + a);
-        System.out.println("b :"+ b);
+        // int a = 3;
+        // int b = 8;
+        // int temp = a;
+        // a = b;
+        // b = temp;
+        // System.out.println("a :" + a);
+        // System.out.println("b :"+ b);
     }
 }
