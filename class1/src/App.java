@@ -60,5 +60,15 @@ public class App {
         // } else {
         //     System.out.println("Invalid transaction");
         // }
+
+
+        // assignment: swap two numbers
+        int a = 3;
+        int b = 8;
+        int temp = a;
+        a = b;
+        b = temp;
+        System.out.println("a :" + a);
+        System.out.println("b :"+ b);
     }
 }
